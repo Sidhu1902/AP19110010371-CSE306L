@@ -1,0 +1,68 @@
+Enter '1' to INSERT
+
+Enter '2' to DISPLAY
+
+Enter '3' to DELETE
+
+1
+
+Enter the Identifier: 
+
+void
+
+Enter the info:
+
+ keyword
+
+Enter '1' to INSERT
+
+Enter '2' to DISPLAY
+
+Enter '3' to DELETE
+
+1
+
+Enter the Identifier: 
+
+temp
+
+Enter the info:
+
+ variable
+
+Enter '1' to INSERT
+
+Enter '2' to DISPLAY
+
+Enter '3' to DELETE
+
+isPrime       1
+
+Enter the Identifier: 
+
+isPrime
+
+Enter the info:
+
+ function
+
+Enter '1' to INSERT
+
+Enter '2' to DISPLAY
+
+Enter '3' to DELETE
+
+2
+
+Id		|	Info
+
+-----------------------------------------------------------
+
+void			keyword
+
+temp			variable
+
+isPrime			function
+
+
+
